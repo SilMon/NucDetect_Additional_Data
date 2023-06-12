@@ -1,7 +1,7 @@
 import os
 
 # Define folder which contains all the necessary files
-folder = r"C:\Users\roman\NucDetect\images\NucDetect Daten\Caco 2\Caco_2_Etoposide_5_3_1_NC_B"
+folder = r"PATH/TO/FOLDER"
 
 formats = ["tif", "tiff", "jpg", "png", "bmp"]
 
